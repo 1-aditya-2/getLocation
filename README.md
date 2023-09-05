@@ -1,7 +1,8 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
-
-Demonstration Video:
+## Demonstration Video:
 [Watch the Video](https://www.loom.com/share/24aec61f86204e1280f96e8d66649e3a?sid=5757f97b-929e-481e-94bc-2acc2a616fe1)
+
+
+This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
 
